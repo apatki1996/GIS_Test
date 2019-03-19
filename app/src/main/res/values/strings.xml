@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GIS Test</string>
+    <string name="location_permission_denied">Permission Denied</string>
+</resources>
